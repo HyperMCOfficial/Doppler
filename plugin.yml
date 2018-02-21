@@ -1,0 +1,5 @@
+name: Doppler
+author: [Hundeklemmen, MineNationRead t]
+version: 1.0.0
+main: hundeklemmen.Main
+description: Doppler powered by MineNation
