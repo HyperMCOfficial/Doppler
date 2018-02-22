@@ -21,13 +21,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-
-//PREFIX: ChatColor.DARK_GRAY+"["+ChatColor.AQUA+ChatColor.BOLD+"Mine"+ChatColor.WHITE+ChatColor.BOLD+"Nation"+ChatColor.DARK_GRAY+"] "
-
 public class Main extends JavaPlugin implements Listener {
 
-	public static String prefix = "&8[&b&lPlayerHost&8]";
-	static Process ps;
 	public Socket clientSocket;
 	public DataOutputStream outToServer;
 	public BufferedReader inFromServer;
