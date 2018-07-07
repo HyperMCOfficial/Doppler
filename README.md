@@ -1,6 +1,10 @@
 # Doppler
 A Bukkit plugin that integrates third-party servers into MineNation
 
+#INFO:
+
+Doesn't work anymore due to new system, updated version will come out at some point when i have time. :)
+
 # About
 The Doppler system was developed for servers that are not hosted on the MineNation platform. In order to maintain the security of MineNation, the Doppler server was designed to provide a bridge between regular Minecraft servers and our database. This allows MineNation to add any third party server without having to worry about them decompiling code to find our database info.
 
